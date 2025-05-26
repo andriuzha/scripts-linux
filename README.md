@@ -3,4 +3,4 @@ Este repositorio contiene una variedad de scripts para automatizar tareas y mejo
 
 ## Contenido
 
-Aquí puedes listar los scripts que tienes actualmente y dar una breve descripción de cada uno. Por ejemplo:
+* `instalar_mediafire_rs.sh` Este instala la aplicación mediafire_rs y sus depedencias correspondientes
