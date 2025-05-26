@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Este intala la aplicación mediafire_rs 
+# Este script instala la aplicación mediafire_rs 
 # Apliación cortesía de:
 # https://github.com/NicKoehler/mediafire_rs
 
